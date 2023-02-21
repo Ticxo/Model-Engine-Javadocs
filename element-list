@@ -2,6 +2,8 @@ com.ticxo.modelengine.api
 com.ticxo.modelengine.api.animation
 com.ticxo.modelengine.api.animation.blueprint
 com.ticxo.modelengine.api.animation.keyframe
+com.ticxo.modelengine.api.animation.keyframe.type
+com.ticxo.modelengine.api.animation.property
 com.ticxo.modelengine.api.animation.script
 com.ticxo.modelengine.api.animation.state
 com.ticxo.modelengine.api.animation.timeline
@@ -26,6 +28,7 @@ com.ticxo.modelengine.api.mount.controller.walking
 com.ticxo.modelengine.api.nms
 com.ticxo.modelengine.api.nms.entity
 com.ticxo.modelengine.api.nms.entity.fake
+com.ticxo.modelengine.api.nms.entity.hitbox
 com.ticxo.modelengine.api.nms.entity.impl
 com.ticxo.modelengine.api.nms.entity.wrapper
 com.ticxo.modelengine.api.nms.network
